@@ -1,0 +1,10 @@
+{
+    "chart": "{http://www.w3.org/2001/XMLSchema}unsignedInt",
+    "anchor": "{http://www.w3.org/2001/XMLSchema}boolean",
+    "list": "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}ST_RelationshipId",
+    "sqref": "{http://www.w3.org/2001/XMLSchema}anySimpleType",
+    "slicer": "{http://www.w3.org/2001/XMLSchema}anySimpleType",
+    "revisionPtr": "{http://schemas.microsoft.com/office/drawing/2010/main}ST_LegacySpreadsheetColorIndex",
+    "calcFeatures": "{http://www.w3.org/2001/XMLSchema}boolean",
+    "absPath": "{http://www.w3.org/2001/XMLSchema}anySimpleType"
+}
